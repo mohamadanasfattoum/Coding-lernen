@@ -7,4 +7,6 @@
 7- git branch
 8- git checkout name
 9- git checkout -b name
+10- git push
+git push --set-upstream origin coding2
 -- bild 1
