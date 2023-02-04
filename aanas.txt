@@ -2,11 +2,13 @@
 2 -git add
 3 -git status
 4 -git add .
-5
-6
+5 -git commit -m ""
+6 -git push
 7- git branch
 8- git checkout name
-9- git checkout -b name
+9- git checkout -b name << wenn neu branch ist>>
 10- git push
 git push --set-upstream origin coding2
 -- bild 1
+---- merge in cloud----
+11 -git pull
